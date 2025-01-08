@@ -1,1 +1,1 @@
-# odin-recipes
+so i will make a project as a part of my learning process at the odin project. the project that i will be working on is a webpage that will display recipes built with html
